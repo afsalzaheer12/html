@@ -1,0 +1,29 @@
+#abb
+{
+    color:red;
+    background-color: grey;
+     width: 200px;
+    text-align: center;
+    text-shadow:5px 3px green;
+    
+    
+}
+
+#demo
+{
+    background-image:url("https://i.pinimg.com/originals/55/6c/7d/556c7dd5ae4790a97bab5ab83b676407.jpg");
+    color: blue;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    font-size: 15px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    text-align: justify;
+    border-top: 5px dashed red ;
+    border-right: 5px double green;
+    border-bottom: 5px dotted cyan;
+    border-left: 5px solid orange;
+
+}
